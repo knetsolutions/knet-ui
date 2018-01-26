@@ -21,5 +21,5 @@ python ui/webserver.py
 
 ## UI
 
-Open the browser with URL http://<your machine ip>:5000/index.html
+Open the browser with URL http://localhost:5000/index.html
 
